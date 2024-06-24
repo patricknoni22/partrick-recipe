@@ -1,22 +1,23 @@
 
 
 body{
-    background-color:rgba(255, 192, 203, 0.466);
+    background-color:rgba(247, 229, 228, 0.842);
     margin: 2rem auto;
 
 }
 
 
 
-div{
-   width:300px;
+.card{
+    width:300px;
     margin: 0rem auto;
-background-color: aliceblue;
-line-height: 22px;
-padding: 10px;
+    background-color: white;
+    line-height: 22px;
+    padding: 20px;
+    border-radius: 10px;
 }
 section{
-    background-color:rgba(255, 192, 203, 0.466) ;
+    background-color:rgba(250, 210, 217, 0.815);
     width: 285px;
 
 }
@@ -30,9 +31,9 @@ table{
 }
 
 .last{
-font-size: 20px;
+    font-size: 20px;
     padding-left:100px ;
-    color: brown;
+    color:hsl(332, 51%, 32%);
 }
 
 
